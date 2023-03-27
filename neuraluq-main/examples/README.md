@@ -10,6 +10,8 @@
 
 - Lorenz system model (Samplable/Trainable): `Lorenz_System.ipynb`
 
+- VanDerPol oscillator model (Samplable/Trainable): `VanDerPol.ipynb`
+
 - Rossler attractor model (Samplable/Trainable): `Rossler_attractor.ipynb`
 
 # Original examples
