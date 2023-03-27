@@ -1,25 +1,10 @@
-# Computational_Statistics
+# Computational Statistics
 
 ### NeuralUQ: A comprehensive library for UQ in neural differential equations and operators
 ##### (Zongren Zou, Xuhui Meng, Apostolos F Psaros, George Em Karniadakis: [Github repository](https://github.com/Crunch-UQ4MI/neuraluq.git))
-In NeuralUQ, each UQ method is decomposed into a surrogate and an inference method for posterior estimation. NeuralUQ has included various surrogates and inference methods, i.e., 
-- Surrogates
-  - Bayesian Neural Networks (BNNs)
-  - Deterministic Neural Networks, e.g., fully-connected neural networks (FNNs)
-  - Deep Generative Models, e.g., Generative Adversarial Nets (GANs)
-- Inference Methods
-  - Sampling methods
-    - Hamiltonian Monte Carlo (HMC)
-    - Langevin Dynamics (LD)
-    - No-U-Turn (NUTS)
-    - Metropolis-adjusted Langevin algorithm (MALA)
-  - Variational Methods
-    - Mean-field Variational Inference (MFVI)
-    - Monte Carlo Dropout (MCD)
-  - Ensemble Methods
-    - Deep ensembles (DEns)
-    - Snapshot ensemble (SEns)
-    - Laplace approximation (LA)
+Welcome in our GitHub repository, where there is all the work we did to study the NeuralUQ library. 
+
+In the examples repository you can find both the examples proposed by the original authors and our study cases.
     
 Users can refer to this paper for the design and description, as well as the examples, of the NeuralUQ library:
 - [NeuralUQ: A comprehensive library for uncertainty quantification in neural differential equations and operators](http://arxiv.org/abs/2208.11866)
