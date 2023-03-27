@@ -1,6 +1,18 @@
-We strongly recommend the users to start with the `function.py` example to go through the whole UQ procedure in **NeuralUQ** library.
+# Our study
 
-# Supported examples
+- 3 species Lotka-Volterra model (Samplable/Trainable): `3_species_Preys&Predators.ipynb`
+
+- 3 species Lotka-Volterra model with all the parameters to estimate (Samplable/Trainable): `Stress_Lotka_Volterra.ipynb`
+
+- 1 dimensional Burger equation (Samplable/Trainable): `Burger.ipynb`
+
+- 1 dimensional Fisher equation (Samplable/Trainable): `Fisher.ipynb`
+
+- Lorenz system model (Samplable/Trainable): `Lorenz_System.ipynb`
+
+- Rossler attractor model (Samplable/Trainable): `Rossler_attractor.ipynb`
+
+# Original examples
 
 - Function approximation for discontinuous function (Samplable/Trainable/Variational): `function.py`
 
