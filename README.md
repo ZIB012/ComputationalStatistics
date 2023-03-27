@@ -1,6 +1,7 @@
 # Computational_Statistics
 
 ### NeuralUQ: A comprehensive library for UQ in neural differential equations and operators
+### (Zongren Zou, Xuhui Meng, Apostolos F Psaros, George Em Karniadakis: [Github repository](https://github.com/Crunch-UQ4MI/neuraluq.git)
 In NeuralUQ, each UQ method is decomposed into a surrogate and an inference method for posterior estimation. NeuralUQ has included various surrogates and inference methods, i.e., 
 - Surrogates
   - Bayesian Neural Networks (BNNs)
