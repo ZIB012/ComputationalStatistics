@@ -1,7 +1,7 @@
 # Computational_Statistics
 
 ### NeuralUQ: A comprehensive library for UQ in neural differential equations and operators
-### (Zongren Zou, Xuhui Meng, Apostolos F Psaros, George Em Karniadakis: [Github repository](https://github.com/Crunch-UQ4MI/neuraluq.git)
+##### (Zongren Zou, Xuhui Meng, Apostolos F Psaros, George Em Karniadakis: [Github repository](https://github.com/Crunch-UQ4MI/neuraluq.git))
 In NeuralUQ, each UQ method is decomposed into a surrogate and an inference method for posterior estimation. NeuralUQ has included various surrogates and inference methods, i.e., 
 - Surrogates
   - Bayesian Neural Networks (BNNs)
@@ -24,7 +24,7 @@ In NeuralUQ, each UQ method is decomposed into a surrogate and an inference meth
 Users can refer to this paper for the design and description, as well as the examples, of the NeuralUQ library:
 - [NeuralUQ: A comprehensive library for uncertainty quantification in neural differential equations and operators](http://arxiv.org/abs/2208.11866)
 
-# Installation
+### Installation
 **NeuralUQ** requires the following dependencies to be installed:
 
 - Tensorflow 2.9.1
